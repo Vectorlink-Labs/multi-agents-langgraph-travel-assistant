@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+
+# C extensions
+*.so
+
+# Distribution / build products
+dist/
+build/
+*.egg
+*.egg-info/
+
+# Virtual environment
+.env/
+venv/
+env/
+# You might also use a specific name for your virtual environment, e.g., my_project_env/
+
+# Editor/IDE specific files
+.vscode/ # VS Code specific files
+.idea/ # PyCharm specific files
+*.sublime-project
+*.sublime-workspace
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+temp/
+
+# Sensitive information (e.g., configuration files with credentials)
+# Consider using environment variables for sensitive data instead of hardcoding.
+# For example, if you have a local settings file:
+# local_settings.py
