@@ -62,7 +62,7 @@ Just open the web app and start chatting!
 
 - **LLM**: OpenAI GPT model
 - **Framework**: LangChain + LangGraph  
-- **Vector Store**: Chroma
+- **Vector Store**: ChromaDB
 - **Web Search**: DuckDuckGo
 - **UI**: Streamlit + FastAPI
 
